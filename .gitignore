@@ -1,6 +1,7 @@
 .DS_Store
 facebook*.zip
-data/
+data/*
+!data/.keep
 exports/*
 !exports/.keep
 
