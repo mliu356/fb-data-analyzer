@@ -1,7 +1,8 @@
 .DS_Store
 facebook*.zip
 data/
-exports/
+exports/*
+!exports/.keep
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
